@@ -1,3 +1,5 @@
+<i>Author Note</i> This is is not an Artificial General Intelligence project, it's intended as a world model for which my AI systems come about.
+
 # Awasunu Orginale
 The roots of this project dates back to when I was first blending Rock Paper Scissors and Hangman mechanics, adding mechanics for tracking user behaviours. As the project scope grew, and overlapping with other types of research I was doing, this spun off into Awasunu and Nuerisupu scripting languages, starting with blending Awasunu and Obelisk. But now includes Obabesce as well. Eventually the machine learning aspects began to overtake the original project goals, with a focus on data compression to see what types of information survive.
 
