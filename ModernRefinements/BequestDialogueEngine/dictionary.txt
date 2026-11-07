@@ -1,0 +1,137 @@
+## Invented Language Rules
+Basic grammar theory around the Ahuzacos.
+
+~~~
+1. Word classes
+  a. French words used the basic French word classes: Le for masculine nouns, La for feminine nouns, and Les for nuetral or plural nouns. These use the secondary classes of un, une, and des.
+  b. Loan words from Japanese use pseudo-classes do to Japanese not having native word classes. These are Anu for masculine nouns, Ana for feminine nouns, and Anos for nuetral or plural nouns. These use the secondary pseudo-word classes of tu, ta, and tos. Secondary word classes are tun, tan, and deso.
+  c. Loan words from German use the German word class system: Der for masculine nouns, Die for feminine nouns, and Das for nuetral or plural nouns.
+  d. Hybrid portmanteau use a French prefix and japanese suffix. These use the secondary pseudo-word classes of Lanu, Lana, and Lanos. Secondary word classes are tun, tan, and deso. For example Surfsuna.
+
+2. Nouns are person, places, or things.
+  a. French nouns use the word classes from Francais based on their masculine, feminine, and neutral forms.
+  b. Japanese nouns use the pseudo word classes from Nihongo based on their masculine, feminine, and neutral forms. These are mainly use for Japanese language sentences.
+  c. German nouns use the word classes from German, Swiss, Dutch, and Alsatian based on their masculine, feminine, and neutral forms.
+  d. Hybrid port manteaus are a special noun variety like Surfsuna that may later drift into verbs and thus no word classes are used.
+
+3. Adjectives
+
+  a. colors - Unless specified otherwise, color adjectives use the French color name system, except in chemistry which uses dryness and ph value chart.
+  b. shapes - Unless specified otherwise, shape adjectives use the French shape name system.
+
+4. Pronouns - Je is I, Vous is You all, Tu is You, Nous is We, Il is He, Ils is Him, Elle is She, Elles os Her.
+
+5. Verbs - Default to French verbs except when converting Japanese into Romaji. Hybrid portmanteau use a French prefix and japanese suffix. the verb forms do not use word classes.
+~~~
+
+## Pronunciation Guide
+~~~
+D and R merge together: Replace D with R or vice versa.
+F and S merge together: Replace F with S or vice versa.
+H and L are the same character and silent: H and L are not pronounced.
+M is pronounced more like a W: Replace M with W.
+X is pronounced like a soft ch: Replace X with ch.
+~~~
+
+## Word Classes
+Le   - Masculine the ( Francophonic )
+La   - Feminine the ( Francophonic )
+Les  - Plural or nuetral the ( Francophonic )
+Ana  - Masculine the ( Pseudo-Japonic )
+Anu  - Feminine the (  )
+Anos - Plural or neutral the ( Japonic )
+Der  - Masculine the ( Germanic, ala Alsatian )
+Die  - Feminine the ( Germanic, ala Alsatian )
+Das  - Plural or neutral the ( Germanic, ala Alsatian )
+Te   - Masculine the ( Hybrid )
+Ta   - Feminine the ( Hybrid )
+Tos  - Plural or nuetral ( Hybrid )
+
+## Nouns
+These are the basic nouns for this invented lnaguage.
+
+### Family
+homme          = man
+femme          = woman
+fille          = girl
+garcon         = boy
+tante          = aunt
+oncle          = uncle
+cousinfille    = female cousin
+cousingarcon   = male cousin
+grandmere      = grandma
+grandpere      = grandpa
+
+### Animals
+chat           = cat
+chien          = dog
+oiseau         = bird
+souris         = mouse
+ours           = bear
+ostritch       = ostritch
+jiraff         = giraff
+écureuil       = squirrel
+
+### Nouns
+maison         = masonry; cobblestone house
+cabin          = cabin
+ecole          = school
+hospital       = hospital
+
+### Colours
+These are the basic colors used.
+
+#### Basic Colors
+noir    = black
+blancs  = white
+rouge   = red
+vert    = green
+bleu    = blue
+cyan    = cyan
+magenta = magenta
+jaune   = yellow
+
+#### Color PH Scale, Basic Colors
+These are the basic components of the PH color finder.
+~~~
+rouge cerise      - cherry red ( #EC1D25 PH1 )
+orange sombres    - somber orange ( #F0692F PH2 )
+oranges droles    - Light Orange ( #F89A40 PH3 )
+dore              - Golden ( #FFCB2A PH4 )
+citron sombres    - Dark Lime ( #A4CF39 PH5 )
+turquoise sombres - Turquoise ( #186D68 PH6 )
+bleu de francais  - French Blue ( #3764A8 PH7 )
+murasaki no kutsu - Royal Purple ( #521D75 PH8 )
+~~~
+
+### Color PH Scale
+This are especially made colors derived from basic bright primaries and PH specific colors:
+
+~~~
+Samonrose                     - Salmon Pink    ( #F66A73 / PH3DR1 )
+Bronzage Rosier / Pinkurosier - Pinkish Tan    ( #CD8F79 / PH3DR2 )
+Razuberi                      - Raspberry      ( #D54661 / PH3DR3 )
+Pechepinku                    - Peachy Pink    ( #F99889 / PH4DR1 )
+Cuir                          - Leather        ( #F99889 / PH4DR2 )
+Pouillérabenda                - Dusty Lavender ( #B996B2 / PH4DR3 )
+~~~
+
+### Abstract Nouns
+éducation = education
+
+## Adjectives
+ojijaku     = In reference to Jean Jacquez Walts, translates to 'being like a fairytale', and can used as adjective.
+tsin        = grimey
+petite      = small
+sucrée      = sugary
+roudy       = roudy
+
+## Verb 
+sages       = wise; used as a verb.
+
+## Maritime Terminology
+Buibrissant                           - [ Buibrissant ] - Boui breakage; can also be used as a verb for hopping from boui to boui.
+Benificaire De Anos Manshonos         - [ Benidemanshonos ] - One who benefits from the mansion's estate.
+Reunion No Kaibo                      - [ Reukaibos ] - Reunion during an autopsy.
+Heddo No Panier                       - [ Edopanos ] - Basket for severed heads from a guillotine.
+Murasaki No Kutsu, Le porteur de pall - [ Le Pallport De Anos Murakutsos ] - Abbrev. Panamurakutso.
