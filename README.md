@@ -1,5 +1,5 @@
 # Awasunu Orginale
-This is the basic original version of Awasunu. I eventually also merged it with Obelisk.
+The roots of this project dates back to when I was first blending Rock Paper Scissors and Hangman mechanics, adding mechanics for tracking user behaviours. As the project scope grew, and overlapping with other types of research I was doing, this spun off into Awasunu and Nuerisupu scripting languages, starting with blending Awasunu and Obelisk. But now includes Obabesce as well. Eventually the machine learning aspects began to overtake the original project goals, with a focus on data compression to see what types of information survive.
 
 ## Bequest De Cendres And Lhacurimosa
 This is an evolution of the Bequest De Cendres Engine where Awasunu and Nuerisupu spun off into becoming their own DSLs.
