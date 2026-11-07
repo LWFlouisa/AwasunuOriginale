@@ -23,24 +23,24 @@ The dark preist is nuetralized by the preist in white, the stillborn is nuetrali
 Le Inhumation De Le Payee De Anos Hon Suzoku - The literary buriel of one in the countryside; the funeral rites of inherited books. Bungaku Kuni Maisō means "Literary Country Burial" or Entombement.
   Replacement Suggestion: Literary Country Burial, or "Bungaku Kuni Maisō"
 
-Tombekashi                                   - Grave Chants; Songs Of The Grave
-Shinshusci                                   - New Species; Informally Scientific Mysticism
-Yokanozen                                    - Alternative: "Yake No mae". Before leisure; Four Steps
-violamatraque                                - A special hammer that can be played like a viola.
-Shikensujetto                                - A type of test subject.
-Les Kumabatto De Les Ghoules                 - The bear-bat of ghouls; equivalent to the vampire for werebears.
-Raitosalle De Getawaltz                      - A special type of ghost that dances like disembodied flashlights. 
-Kyabin Yokanozen                             - Cabins tied to haunted locations that concentrate Yokai.
-Ceriderinshos                                - Hospitals and clinics that become yokanozen after strange events. Generally this places differ from standard Japanese folklore, in that there is a large number of strange apparitions that appear in certain haunted areas, blurring the line between Japanese Horror and Western Ghost Stories.
-Seigyo Des Dommmages                         - The general term for damage control; generally used in context with fixing leaks in battleships and other vessels. But has also been used to describe companies massively rewriting a canon or doing other conceptual work that massively divides the fan base.
-Sanitemetoruho                               - "Sanitary Marriage"; A measurement based on your present mental fragility compared and contrasting with the trust level other party members and love interest have in you as the protagonist. This allows for more dynamic levels of bad endings rather than one standard Survival Horror ending.
-Sakabekige                                   - "Of Machine"; To express ones love so deeply, that you'd rather end it all by writing "I Love You" on a wall. Such places are generally places closest to where the lovers first met, with games that revolve around them being about the depression of one of "Sangkabegaki" creativity.
-Sombreheiwa                                  - "Dark Peace"; A run where you meet game play goals by relieving enemies burden, with the "sombre" stemming from why they lashed out.
-Anos Pluiebutos                              - Rain boots
-Anos Mibojinjos                              - An automated crossbow designed for executing murderers by beheading them. This is done behind closed doors in dead up blocks in prisons. This came about from needing a fast way to get rid of political prisoners, but with the effiency of guillotining them.
-Katana No Chaos                              - Katana that brings Chaos.
-Cleve De Justice                             - Cleaver that brings justice; specific executioner's ax.
-Annuaire De Lune                             - Lunar Calender
+Tombekashi - Grave Chants; Songs Of The Grave<br />
+Shinshusci - New Species; Informally Scientific Mysticism<br />
+Yokanozen  - Alternative: "Yake No mae". Before leisure; Four Steps<br />
+violamatraque - A special hammer that can be played like a viola.<br />
+Shikensujetto - A type of test subject.<br />
+Les Kumabatto De Les Ghoules - The bear-bat of ghouls; equivalent to the vampire for werebears.<br />
+Raitosalle De Getawaltz - A special type of ghost that dances like disembodied flashlights. <br />
+Kyabin Yokanozen - Cabins tied to haunted locations that concentrate Yokai.<br />
+Ceriderinshos - Hospitals and clinics that become yokanozen after strange events. Generally this places differ from standard Japanese folklore, in that there is a large number of strange apparitions that appear in certain haunted areas, blurring the line between Japanese Horror and Western Ghost Stories.<br />
+Seigyo Des Dommmages - The general term for damage control; generally used in context with fixing leaks in battleships and other vessels. But has also been used to describe companies massively rewriting a canon or doing other conceptual work that massively divides the fan base.<br />
+Sanitemetoruho - "Sanitary Marriage"; A measurement based on your present mental fragility compared and contrasting with the trust level other party members and love interest have in you as the protagonist. This allows for more dynamic levels of bad endings rather than one standard Survival Horror ending.<br />
+Sakabekige - "Of Machine"; To express ones love so deeply, that you'd rather end it all by writing "I Love You" on a wall. Such places are generally places closest to where the lovers first met, with games that revolve around them being about the depression of one of "Sangkabegaki" creativity.<br />
+Sombreheiwa - "Dark Peace"; A run where you meet game play goals by relieving enemies burden, with the "sombre" stemming from why they lashed out.<br />
+Anos Pluiebutos - Rain boots<br />
+Anos Mibojinjos - An automated crossbow designed for executing murderers by beheading them. This is done behind closed doors in dead up blocks in prisons. This came about from needing a fast way to get rid of political prisoners, but with the effiency of guillotining them.<br />
+Katana No Chaos - Katana that brings Chaos.<br />
+Cleve De Justice - Cleaver that brings justice; specific executioner's ax.<br />
+Annuaire De Lune - Lunar Calender
 
 Matraque   - Bludgeon
 Sukupu     - Scoop
