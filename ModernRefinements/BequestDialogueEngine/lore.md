@@ -1,11 +1,11 @@
 # Premise
-This is set during the decades of civil war between 2045 and 2085, where there is a cultural and langage shift that makes the default language in what remains of the US the French language, rather than American English. It is set after the first period where France was expelled from the Americas, except for those whose loyalty was to the branch of the French government whose controlled the Eastern United States.
-The language beyond the Rocky mountains is in fact a dialecto of Japanese descended from the immigrants to California after 2045 A.D., with sanctuary cities being many of the areas that are planned for this particular game and updates to it.
+This is set during the decades of civil war between 2045 and 2085, where there is a cultural and langage shift that makes the default language in what remains of the US the French language, rather than American English. It is set after the first period where France was expelled from the Americas, except for those whose loyalty was to the branch of the French government whose controlled the Eastern United States.<br />
+The language beyond the Rocky mountains is in fact a dialecto of Japanese descended from the immigrants to California after 2045 A.D., with sanctuary cities being many of the areas that are planned for this particular game and updates to it.<br />
 
 ## REINCARNATION MYTH
-Reincarnation at its core works by the death of ones original body prompting the &quot;limbo&quot; body to reinhabit the duplicate body.
-Often said duplicate body will be in a child version of the adult body, and is considered a dictinct entity from ones offspring.
-You offspring, if you have them, is tasked with guided your &quot;limbo&quot; body to the new body.
+Reincarnation at its core works by the death of ones original body prompting the &quot;limbo&quot; body to reinhabit the duplicate body.<br />
+Often said duplicate body will be in a child version of the adult body, and is considered a dictinct entity from ones offspring.<br />
+You offspring, if you have them, is tasked with guided your &quot;limbo&quot; body to the new body.<br />
 In general the duplicate body will be made by a priest in the town you currently reside in. And thus those whom travel a bit will often be switcehd to the duplicate body after the death on a previous adventure in the new town they visited.
 
 Here the goal becomes less ending the cycle of reincarnation, but rather learning from ones mistakes in a previous incarnation. Those whom were executed a lot of previous bodies, are considered &quot;bad omens&quot;, while those whom died of old age, and considered the best &quot;good omens&quot;.
