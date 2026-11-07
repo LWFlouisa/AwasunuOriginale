@@ -1,3 +1,4 @@
+# Notice
 <i>Author Note</i> This is is not an Artificial General Intelligence project, it's intended as a world model for which my AI systems come about.
 
 # Awasunu Orginale
