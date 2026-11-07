@@ -1,0 +1,243 @@
+Primary Hub
+[ :bedroom, "     ***********************
+     *       +|__|-+       *
+    *       /  Z  /+      *
+   *       +_____+/      *
+  *        +_____+      *
+ *         \           *
+***********   *********", "+------------+
+ |#           |
+ | exxxxx     |
+ |  sxxxxxxxx |
+ |      x   x |
+ |      x   x |
+ |      x   x |
+ |      s   x |
+ |          x |
+ |          x |
+ |          x |
+ |          e |
+ |            |
+ +------------+"
+], [
+  "The current map size is: 12 by 12",
+  "The current cognitive threshold is 100",
+  "The current odds of learning this word is 0.23418295804627062",
+  "Therefore the approximate location of cognitive loading is the tile of 11 and 11.",
+  "The cognitive threshold is 100 therefore the approximate location of cognitive loading is the tile of 11.696832 and 11.696832 is largely false."
+]
+ 
+Secondary Hub
+[ laundry 
+************************
+*                ****  *
+*                *  *  *
+* ******         *  *  *
+***    *****************
+* *    *               *
+* *    *               *
+* *    *               *
+* ******          Z    *
+* ******       \     / *
+* *    *        \   /  *
+* *    *         \ /   *
+* *    *          @    *
+* *    *        \      *
+* ******         \     *
+******************  ****
+ ] because it has 0.10890000000000001.
++------------+
+|#           |
+|            |
+|            |
+|            |
+|    exxxxx  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         s  |
+|            |
+|            |
++------------+
+LEARNING ASSESSMENT
+The current map size is: 12 by 12
+The current cognitive threshold is 100
+The current odds of learning this word is 0.27844541038097675
+Therefore the approximate location of cognitive loading is the tile of 9 and 9.
+The cognitive threshold is 100 therefore the approximate location of cognitive loading is the tile of 9.360000000000014 and 9.360000000000014 is largely false.
+ 
+[ laundry 
+************************
+*                ****  *
+*                *  *  *
+* ******         *  *  *
+***    *****************
+* *    *               *
+* *    *               *
+* *    *               *
+* ******          Z    *
+* ******       \     / *
+* *    *        \   /  *
+* *    *         \ /   *
+* *    *          @    *
+* *    *        \      *
+* ******         \     *
+******************  ****
+ ] because it has 0.43560000000000004.
++------------+
+|#           |
+| sxxxxxxxx  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         e  |
+|            |
+|            |
++------------+
+LEARNING ASSESSMENT
+The current map size is: 12 by 12
+The current cognitive threshold is 100
+The current odds of learning this word is 6.763975155279509
+Therefore the approximate location of cognitive loading is the tile of 1 and 1.
+The cognitive threshold is 100 therefore the approximate location of cognitive loading is the tile of 1.4400000000000546 and 1.4400000000000546 is true.
+ 
+Points Of Interest
+I'm confident it is not [ livingroom 
+***********__***********
+*_________|ZZ|_________*
+*        |____|        *
+*                      *
+*      \+------/       *******
+*       \     /|       |______
+*       +\---/-+               
+*         \ /          *******
+*          @           *
+*       \              *
+*        \             *
+**********   ***********
+
+ ] as it has only 0.054450000000000005 probability.
+I'm confident it is not [ livingroom 
+***********__***********
+*_________|ZZ|_________*
+*        |____|        *
+*                      *
+*      \+------/       *******
+*       \     /|       |______
+*       +\---/-+               
+*         \ /          *******
+*          @           *
+*       \              *
+*        \             *
+**********   ***********
+
+ ] because it has 0.10890000000000001.
+I'm confident it is not [ livingroom 
+***********__***********
+*_________|ZZ|_________*
+*        |____|        *
+*                      *
+*      \+------/       *******
+*       \     /|       |______
+*       +\---/-+               
+*         \ /          *******
+*          @           *
+*       \              *
+*        \             *
+**********   ***********
+
+ ] because it has 0.21780000000000002.
+I'm less unconfident it is not [ livingroom 
+***********__***********
+*_________|ZZ|_________*
+*        |____|        *
+*                      *
+*      \+------/       *******
+*       \     /|       |______
+*       +\---/-+               
+*         \ /          *******
+*          @           *
+*       \              *
+*        \             *
+**********   ***********
+
+ ] because it has 0.43560000000000004.
+I'm sure it is [ livingroom 
+***********__***********
+*_________|ZZ|_________*
+*        |____|        *
+*                      *
+*      \+------/       *******
+*       \     /|       |______
+*       +\---/-+               
+*         \ /          *******
+*          @           *
+*       \              *
+*        \             *
+**********   ***********
+
+ ] because it has 0.8712000000000001.
++------------+
+|#           |
+|            |
+|  sxxxxxxxx |
+|          x |
+|          x |
+|          x |
+|          x |
+|          x |
+|          x |
+|          x |
+|          e |
+|            |
++------------+
+LEARNING ASSESSMENT
+The current map size is: 12 by 12
+The current cognitive threshold is 100
+The current odds of learning this word is -2.3469827586206895
+Therefore the approximate location of cognitive loading is the tile of 2 and 2.
+The cognitive threshold is 100 therefore the approximate location of cognitive loading is the tile of 2.880000000000109 and 2.880000000000109 is not quantifiable.
+ 
+I'm confident it is not [ albumroom 
++----------------------+
++----------------------+
+    @              Z
++-----------------------
++-----------------------
+>> There isn't enough room in this mansion for the two of us.
+<< Hey, do I look like a bandit to you?
+ ] as it has only 0.054450000000000005 probability.
+I'm confident it is not [ albumroom 
++----------------------+
++----------------------+
+    @              Z
++-----------------------
++-----------------------
+>> There isn't enough room in this mansion for the two of us.
+<< Hey, do I look like a bandit to you?
+ ] because it has 0.10890000000000001.
++------------+
+|#           |
+|            |
+|            |
+|            |
+|    exxxxx  |
+|         x  |
+|         x  |
+|         x  |
+|         x  |
+|         s  |
+|            |
+|            |
++------------+
+LEARNING ASSESSMENT
+The current map size is: 12 by 12
+The current cognitive threshold is 100
+The current odds of learning this word is 0.27844541038097675
+Therefore the approximate location of cognitive loading is the tile of 9 and 9.
+The cognitive threshold is 100 therefore the approximate location of cognitive loading is the tile of 9.360000000000014 and 9.360000000000014 is largely false.
